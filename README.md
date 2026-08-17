@@ -2,9 +2,9 @@
 
 # 👋 Hola, soy **Charlie Ramírez**
 
-### 💻 Desarrollo de Software · 🛠️ Hardware · 🤖 Automatización · ⚡ Electrónica
+### 🎓 Estudiante de Bachillerato · 💻 Técnico en Desarrollo de Software
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Estudiante+de+Bachillerato+T%C3%A9cnico+en+Desarrollo+de+Software;Experiencia+en+reparaci%C3%B3n+de+equipos;Construyendo+software+%2B+hardware;Aprendiendo+haciendo+%F0%9F%94%A7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Estudiante+de+Bachillerato;T%C3%A9cnico+en+Desarrollo+de+Software;Experiencia+en+reparaci%C3%B3n+de+equipos;Construyendo+software+%2B+hardware;Aprendiendo+haciendo+%F0%9F%94%A7" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=charl-rgb\&style=for-the-badge\&color=2F81F7\&label=VISITAS+AL+PERFIL)
 
@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy estudiante de **Bachillerato Técnico Vocacional en Desarrollo de Software**. También cuento con experiencia práctica en reparación y soporte de equipos informáticos.
+Soy estudiante de **Bachillerato Técnico Vocacional** con formación como **Técnico en Desarrollo de Software**. También cuento con experiencia práctica en reparación y soporte de equipos informáticos.
 
 Me interesa combinar **software, hardware, electrónica y automatización** para crear soluciones completas. Me gusta aprender haciendo: diagnosticar una falla, reparar un equipo, desarrollar un sistema o integrar hardware con software.
 
@@ -93,8 +93,11 @@ Proyecto integral que combina **software, comercio electrónico, logística, aut
 
 ## 🎓 Formación
 
-**Bachillerato Técnico Vocacional en Desarrollo de Software**
+**Bachillerato Técnico Vocacional**
 Instituto Nacional de Apopa — INA · `2024 – 2026`
+
+**Técnico en Desarrollo de Software**
+Formación técnica en desarrollo de software
 
 ### Formación complementaria
 
