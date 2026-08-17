@@ -64,13 +64,19 @@ Me interesa combinar **software, hardware, electrónica y automatización** para
 
 <div align="center">
 
-### 🤖 NEXORA
+### 🤖 <a href="https://nexorasv.store">NEXORA</a>
 
 **Sistema Inteligente de Gestión Logística y Comercio Automatizado**
 
 Proyecto integral que combina **software, comercio electrónico, logística, automatización y hardware**.
 
 `PHP` `MySQL` `JavaScript` `HTML` `CSS` `Arduino` `Automatización`
+
+<br>
+
+<a href="https://nexorasv.store/nexora/index.php">
+  <img src="https://img.shields.io/badge/🚀%20VER%20PROYECTO-2F81F7?style=for-the-badge&logoColor=white" alt="Ver proyecto NEXORA">
+</a>
 
 </div>
 
