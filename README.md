@@ -143,6 +143,7 @@ Formación técnica en desarrollo de software
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-charlieramirez675%40gmail.com-2F81F7?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:charlieramirez675@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-7875--5594-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/50378755594)
 [![Website](https://img.shields.io/badge/Website-DATAFOX-181717?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://datafox.42web.io)
 
 ### 💻 Software · 🛠️ Hardware · 🤖 Automatización · ⚡ Tecnología
