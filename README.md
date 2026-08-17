@@ -4,7 +4,7 @@
 
 ### 💻 Desarrollo de Software · 🛠️ Hardware · 🤖 Automatización · ⚡ Electrónica
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Estudiante+de+Desarrollo+de+Software;T%C3%A9cnico+en+reparaci%C3%B3n+de+equipos;Construyendo+software+%2B+hardware;Aprendiendo+haciendo+%F0%9F%94%A7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Estudiante+de+Bachillerato+T%C3%A9cnico+en+Desarrollo+de+Software;Experiencia+en+reparaci%C3%B3n+de+equipos;Construyendo+software+%2B+hardware;Aprendiendo+haciendo+%F0%9F%94%A7" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=charl-rgb\&style=for-the-badge\&color=2F81F7\&label=VISITAS+AL+PERFIL)
 
@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy estudiante de **Bachillerato Técnico Vocacional en Desarrollo de Software** y técnico en reparación de equipos informáticos.
+Soy estudiante de **Bachillerato Técnico Vocacional en Desarrollo de Software**. También cuento con experiencia práctica en reparación y soporte de equipos informáticos.
 
 Me interesa combinar **software, hardware, electrónica y automatización** para crear soluciones completas. Me gusta aprender haciendo: diagnosticar una falla, reparar un equipo, desarrollar un sistema o integrar hardware con software.
 
@@ -106,12 +106,12 @@ Instituto Nacional de Apopa — INA · `2024 – 2026`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=charl-rgb&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charl-rgb&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charl-rgb&theme=github_dark" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=charl-rgb&theme=tokyonight&hide_border=true&locale=es" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=charl-rgb&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charl-rgb&theme=github_dark" />
 
 </div>
 
