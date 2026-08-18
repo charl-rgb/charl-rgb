@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2E1A47,100:FF6EC7&height=170&section=header&text=CHARLIE%20RAM%C3%8DREZ&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Hardware%20%7C%20Automatizaci%C3%B3n&descAlignY=58&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF6EC7&center=true&vCenter=true&width=650&lines=Desarrollo+Web+con+PHP+%2B+MySQL;Reparaci%C3%B3n+de+Hardware;Arduino+%2B+Electr%C3%B3nica;Automatizaci%C3%B3n+%2B+Rob%C3%B3tica" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=&center=true&vCenter=true&width=650&lines=Desarrollo+Web+con+PHP+%2B+MySQL;Reparaci%C3%B3n+de+Hardware;Arduino+%2B+Electr%C3%B3nica;Automatizaci%C3%B3n+%2B+Rob%C3%B3tica" alt="Typing SVG"/>
 
 <br>
 
