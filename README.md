@@ -1,17 +1,16 @@
 <div align="center">
 
-CHARLIE RAMÍREZ
-Software Developer | Hardware | Automatización
+# CHARLIE RAMÍREZ
+
+### Software Developer | Hardware | Automatización
 
 Desarrollo Web • PHP + MySQL • Electrónica • Arduino • Robótica
 
-<br>
-
-<a href="https://nexorasv.store"> <strong>🌐 NEXORA</strong> </a> &nbsp;&nbsp;&nbsp; <a href="https://nexorasv.store/nexora/index.php"> <strong>💻 VER PROYECTO</strong> </a> &nbsp;&nbsp;&nbsp; <a href="mailto:charlieramirez675@gmail.com"> <strong>✉️ CONTACTO</strong> </a>
-
-<br><br>
+[🌐 NEXORA](https://nexorasv.store) • [💻 VER PROYECTO](https://nexorasv.store/nexora/index.php) • [✉️ CONTACTO](mailto:charlieramirez675@gmail.com)
 
 </div>
+
+---
 
 ## 🧑‍💻 Sobre mí
 
