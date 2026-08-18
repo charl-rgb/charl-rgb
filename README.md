@@ -1,112 +1,145 @@
-# Charlie Ramírez
+<div align="center">
 
-**Software Developer · Hardware · Automatización**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:2F81F7&height=170&section=header&text=CHARLIE%20RAM%C3%8DREZ&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Hardware%20%7C%20Automatizaci%C3%B3n&descAlignY=58&descSize=17" width="100%"/>
 
-Bachillerato Técnico Vocacional en Desarrollo de Software · Instituto Nacional de Apopa (INA)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=Desarrollo+Web+con+PHP+%2B+MySQL;Reparaci%C3%B3n+de+Hardware;Arduino+%2B+Electr%C3%B3nica;Automatizaci%C3%B3n+%2B+Rob%C3%B3tica" alt="Typing SVG"/>
 
-[NEXORA](https://nexorasv.store) · [Ver proyecto](https://nexorasv.store/nexora/index.php) · [Contacto](mailto:charlieramirez675@gmail.com)
+<br>
 
----
+<a href="https://nexorasv.store"><img src="https://img.shields.io/badge/NEXORA-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://nexorasv.store/nexora/index.php"><img src="https://img.shields.io/badge/VER%20PROYECTO-161B22?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:charlieramirez675@gmail.com"><img src="https://img.shields.io/badge/CONTACTO-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-## Sobre mí
-
-Estudiante de Bachillerato Técnico Vocacional en Desarrollo de Software, enfocado en construir soluciones que combinan **software, hardware, electrónica y automatización**.
-
-Además de programar, me dedico al diagnóstico y reparación de equipos informáticos, electrónica y prototipado. Aprendo de forma práctica: desarrollo, pruebo, diagnostico, reparo y mejoro.
+</div>
 
 ---
 
-## Proyecto destacado: NEXORA
+### 🧑‍💻 Sobre mí
+
+Estudiante de **Bachillerato Técnico Vocacional en Desarrollo de Software** (INA), enfocado en construir soluciones que combinan software, hardware y automatización. Aprendo de forma práctica: desarrollo, pruebo, diagnostico, reparo y mejoro.
+
+---
+
+### 🧰 Tecnologías
+
+<div align="center">
+
+**Desarrollo**
+
+<img src="https://skillicons.dev/icons?i=php,html,css,js,mysql" />
+
+**Hardware & Electrónica**
+
+<img src="https://skillicons.dev/icons?i=arduino,cpp,c" />
+
+**Herramientas**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,figma" />
+
+</div>
+
+---
+
+### 🚀 Proyecto destacado — NEXORA
 
 **Sistema Inteligente de Gestión Logística y Comercio Automatizado**
 
-`PHP` `MySQL` `JavaScript` `Arduino`
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROYECTO%20INTEGRAL-2F81F7?style=for-the-badge">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+
+</div>
 
 NEXORA integra comercio electrónico, gestión logística, automatización y hardware en un sistema completo de gestión de pedidos y distribución.
 
-**Componentes:**
+```text
+Tienda Virtual → Gestión de Paquetería → Sistema de Delivery → Sistema Principal → Automatización + Hardware
+```
 
-1. Tienda virtual
-2. Gestión de paquetería
-3. Sistema de delivery
-4. Sistema principal
-5. Automatización + hardware
+<div align="center">
 
-→ [Abrir NEXORA](https://nexorasv.store/nexora/index.php) · [Sitio web](https://nexorasv.store)
+<a href="https://nexorasv.store/nexora/index.php"><img src="https://img.shields.io/badge/ABRIR%20NEXORA-2F81F7?style=for-the-badge"></a>
+<a href="https://nexorasv.store"><img src="https://img.shields.io/badge/SITIO%20WEB-161B22?style=for-the-badge"></a>
 
----
-
-## Otros proyectos
-
-**El Chingón** — Sistema POS de ventas con gestión de inventario.
-`PHP` `AJAX` `MySQL` `HTML` `CSS` `JavaScript`
-
-**VendiFax** — Sistema POS para restaurante con gestión de ventas, cocina e inventario.
-`PHP` `MySQL` `JavaScript`
-
-**DataFox** — Proyecto personal enfocado en ofrecer servicios digitales: desarrollo de software, hardware y soporte técnico.
-`Software` `Hardware` `Soporte`
-
-**Hotel Sunset Lover** — Sistema web para gestión y presentación de servicios hoteleros. 🏆 **1er lugar, Feria de Logros 2025**.
-`HTML` `CSS` `JavaScript`
+</div>
 
 ---
 
-## Tecnologías
+### 📂 Otros proyectos
 
-**Desarrollo:** PHP · HTML · CSS · JavaScript · MySQL
-**Hardware y electrónica:** Arduino · C · C++
-**Herramientas:** Git · GitHub · Linux · Windows · VS Code · Figma
-
----
-
-## Experiencia
-
-### CompuPrint — Técnico en reparación de equipos informáticos
-`2022 – 2023` · `2025 – Actualidad`
-
-- Diagnóstico y reparación de computadoras y laptops
-- Diagnóstico y reparación de impresoras
-- Mantenimiento preventivo y correctivo
-- Instalación y configuración de sistemas operativos
-- Identificación de fallas de hardware y soporte técnico a clientes
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| **El Chingón** | Sistema POS de ventas con gestión de inventario | `PHP` `AJAX` `MySQL` `HTML` `CSS` `JS` |
+| **VendiFax** | Sistema POS para restaurante: ventas, cocina e inventario | `PHP` `MySQL` `JavaScript` |
+| **DataFox** | Proyecto personal de servicios digitales, desarrollo y soporte de hardware | `Software` `Hardware` `Soporte` |
+| **Hotel Sunset Lover** 🏆 | Sistema web de gestión hotelera — 1er lugar, Feria de Logros 2025 | `HTML` `CSS` `JavaScript` |
 
 ---
 
-## Formación
+### 💼 Experiencia
 
-### Instituto Nacional de Apopa (INA)
-**Bachillerato Técnico Vocacional en Desarrollo de Software** · `2024 – 2026`
+**CompuPrint** — Técnico en reparación de equipos informáticos · `2022–2023` · `2025–Actualidad`
 
-Enfoque en desarrollo de software, bases de datos, desarrollo web, análisis y diseño de sistemas, programación y hardware.
-
-**Formación complementaria:** Excel · Power BI · Prompt Engineering · IA (Gemini) · C/C++ · Administrador de Bases de Datos · Operador de Impresoras 3D · Electricidad residencial (4ta categoría)
+Diagnóstico y reparación de computadoras, laptops e impresoras · mantenimiento preventivo y correctivo · instalación de sistemas operativos · identificación de fallas de hardware · soporte técnico a clientes.
 
 ---
 
-## Hardware y automatización
+### 🎓 Formación
 
-Trabajo también en proyectos donde el software interactúa con componentes físicos.
+**Instituto Nacional de Apopa (INA)** — Bachillerato Técnico Vocacional en Desarrollo de Software · `2024–2026`
+
+Desarrollo de software · bases de datos · desarrollo web · análisis y diseño de sistemas · programación · hardware.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Prompt%20Engineering-2F81F7?style=for-the-badge">
+<img src="https://img.shields.io/badge/Impresi%C3%B3n%203D-FF6F00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Electricidad-FFC107?style=for-the-badge&logoColor=black">
+
+</div>
+
+---
+
+### 🤖 Hardware & Automatización
 
 **Componentes:** Arduino Mega/Uno · HC-06 · Sensores ultrasónicos y de temperatura · Servomotores · Motores DC · L298N · MQ-04 · Impresión 3D
 
-**Áreas de interés:** robótica, brazos robóticos, automatización logística, control de motores, sensores, integración hardware + software
+**Áreas de interés:** robótica · brazos robóticos · automatización logística · control de motores · sensores · integración hardware + software
 
 ---
 
-## Mi enfoque
+### 📈 Mi enfoque
 
-Aprender → Practicar → Construir → Probar → Fallar → Reparar → Mejorar → Repetir
+```text
+APRENDER → PRACTICAR → CONSTRUIR → PROBAR → FALLAR → REPARAR → MEJORAR → 🚀 REPETIR
+```
 
 > No solo quiero escribir código. Quiero entender cómo funciona, construirlo y hacerlo funcionar en el mundo real.
 
 ---
 
-## Contacto
+<div align="center">
 
-- **Email:** charlieramirez675@gmail.com
-- **WhatsApp:** +503 7875-5594
-- **DataFox:** [datafox.42web.io](https://datafox.42web.io)
-- **NEXORA:** [nexorasv.store](https://nexorasv.store)
+### 📫 Contacto
+
+<a href="mailto:charlieramirez675@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://wa.me/50378755594"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://datafox.42web.io"><img src="https://img.shields.io/badge/DataFox-181717?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://nexorasv.store"><img src="https://img.shields.io/badge/NEXORA-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+
+<br><br>
 
 *De reparar hardware a construir soluciones de software.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:161B22,100:0D1117&height=90&section=footer"/>
+
+</div>
