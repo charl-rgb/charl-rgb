@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:00D9FF&height=170&section=header&text=CHARLIE%20RAM%C3%8DREZ&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Hardware%20%7C%20Automatizaci%C3%B3n&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&text=CHARLIE%20RAMÍREZ&fontSize=50&fontColor=00D9FF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%7C%20Hardware%20%7C%20Automatización&descAlignY=55&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=Desarrollo+Web+con+PHP+%2B+MySQL;Reparaci%C3%B3n+de+Hardware;Arduino+%2B+Electr%C3%B3nica;Automatizaci%C3%B3n+%2B+Rob%C3%B3tica" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=00D9FF&center=true&vCenter=true&width=600&lines=Desarrollo+Web+con+PHP+%2B+MySQL;Reparación+de+Hardware;Arduino+%2B+Electrónica;Automatización+%2B+Robótica" alt="Typing SVG"/>
 
 <br>
 
@@ -12,13 +12,9 @@
 
 </div>
 
----
-
 ## 🧑‍💻 Sobre mí
 
 Estudiante de **Bachillerato Técnico Vocacional en Desarrollo de Software** (INA), enfocado en construir soluciones que combinan software, hardware y automatización. Aprendo de forma práctica: desarrollo, pruebo, diagnostico, reparo y mejoro.
-
----
 
 ## 🧰 Tecnologías
 
@@ -38,112 +34,85 @@ Estudiante de **Bachillerato Técnico Vocacional en Desarrollo de Software** (IN
 
 </div>
 
----
-
 ## 📊 Lenguajes que más uso
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charl-rgb&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=420" alt="Top Languages"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=charl-rgb&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charl-rgb&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=400&bg_color=0D1117&text_color=00D9FF" alt="Top Languages"/>
 
 </div>
 
----
-
-## 🚀 Proyecto destacado — NEXORA
+## 🚀 NEXORA - Proyecto Principal
 
 **Sistema Inteligente de Gestión Logística y Comercio Automatizado**
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROYECTO%20INTEGRAL-1F6FEB?style=for-the-badge">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/PROYECTO%20INTEGRAL-1F6FEB?style=flat">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white">
+
+Tienda Virtual → Paquetería → Delivery → Sistema Principal → Automatización + Hardware
+
+<a href="https://nexorasv.store/nexora/index.php"><img src="https://img.shields.io/badge/ABRIR-1F6FEB?style=flat"></a>
+<a href="https://nexorasv.store"><img src="https://img.shields.io/badge/SITIO%20WEB-00D9FF?style=flat"></a>
 
 </div>
 
-NEXORA integra comercio electrónico, gestión logística, automatización y hardware en un sistema completo de gestión de pedidos y distribución.
+## 📂 Otros Proyectos
 
-```text
-Tienda Virtual → Gestión de Paquetería → Sistema de Delivery → Sistema Principal → Automatización + Hardware
-```
-
-<div align="center">
-
-<a href="https://nexorasv.store/nexora/index.php"><img src="https://img.shields.io/badge/ABRIR%20NEXORA-1F6FEB?style=for-the-badge"></a>
-<a href="https://nexorasv.store"><img src="https://img.shields.io/badge/SITIO%20WEB-00D9FF?style=for-the-badge"></a>
-
-</div>
-
----
-
-## 📂 Otros proyectos
-
-*Base común en todos: HTML, CSS y JavaScript.*
-
-| Proyecto | Descripción | Además |
+| Proyecto | Descripción | Stack |
 |---|---|---|
-| **El Chingón** | Sistema POS de ventas con gestión de inventario | `PHP` `AJAX` `MySQL` |
-| **VendiFax** | Sistema POS para restaurante: ventas, cocina e inventario | `PHP` `MySQL` |
-| **DataFox** | Proyecto personal de servicios digitales, desarrollo y soporte de hardware | `Software` `Hardware` `Soporte` |
-| **Hotel Sunset Lover** 🏆 | Sistema web de gestión hotelera — 1er lugar, Feria de Logros 2025 | `PHP` `MySQL` |
-
----
+| **El Chingón** | Sistema POS con gestión de inventario | PHP • AJAX • MySQL |
+| **VendiFax** | POS para restaurante: ventas, cocina, inventario | PHP • MySQL |
+| **DataFox** | Servicios digitales, desarrollo y soporte hardware | Full Stack |
+| **Hotel Sunset Lover** 🏆 | Sistema de gestión hotelera — 1er lugar 2025 | PHP • MySQL |
 
 ## 💼 Experiencia
 
-**CompuPrint** — Técnico en reparación de equipos informáticos · `2022–2023` · `2025–Actualidad`
+**CompuPrint** — Técnico en reparación de equipos informáticos  
+`2022–2023` • `2025–Actualidad`
 
-Diagnóstico y reparación de computadoras, laptops e impresoras · mantenimiento preventivo y correctivo · instalación de sistemas operativos · identificación de fallas de hardware · soporte técnico a clientes.
-
----
+Diagnóstico y reparación • Mantenimiento preventivo • Instalación de SO • Soporte técnico
 
 ## 🎓 Formación
 
-**Instituto Nacional de Apopa (INA)** — Bachillerato Técnico Vocacional en Desarrollo de Software · `2024–2026`
+**Instituto Nacional de Apopa (INA)** — Bachillerato Técnico Vocacional en Desarrollo de Software  
+`2024–2026`
 
-Desarrollo de software · bases de datos · desarrollo web · análisis y diseño de sistemas · programación · hardware.
+Desarrollo de software • Bases de datos • Desarrollo web • Análisis de sistemas • Hardware
 
-**Cursos y certificaciones**
+**Certificaciones**
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/IA%20(Gemini)-8E44AD?style=for-the-badge">
-<img src="https://img.shields.io/badge/Prompt%20Engineering-00D9FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Admin.%20Bases%20de%20Datos-4479A1?style=for-the-badge">
-<img src="https://img.shields.io/badge/Impresión%203D-FF6F00?style=for-the-badge">
-<img src="https://img.shields.io/badge/Electricidad%20Residencial%204ta%20(en%20curso)-FFC107?style=for-the-badge&logoColor=black">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/IA-Gemini-8E44AD?style=flat">
+<img src="https://img.shields.io/badge/Prompt%20Eng-00D9FF?style=flat">
+<img src="https://img.shields.io/badge/Admin%20BD-4479A1?style=flat">
+<img src="https://img.shields.io/badge/Impresión%203D-FF6F00?style=flat">
 
 </div>
 
----
-
 ## 🤖 Hardware & Automatización
 
-**Componentes:** Arduino Mega/Uno · HC-06 · Sensores ultrasónicos y de temperatura · Servomotores · Motores DC · L298N · MQ-04 · Impresión 3D
+**Componentes:** Arduino Mega/Uno • HC-06 • Sensores ultrasónicos • Sensores de temperatura • Servomotores • Motores DC • L298N • Impresión 3D
 
-**Áreas de interés:** robótica · brazos robóticos · automatización logística · control de motores · sensores · integración hardware + software
+**Áreas de interés:** Robótica • Brazos robóticos • Automatización logística • Control de motores • Sensores • Integración hardware + software
 
----
+## 📈 Mi Enfoque
 
-## 📈 Mi enfoque
-
-```text
-APRENDER → PRACTICAR → CONSTRUIR → PROBAR → FALLAR → REPARAR → MEJORAR → 🚀 REPETIR
+```
+APRENDER → PRACTICAR → CONSTRUIR → PROBAR → FALLAR → REPARAR → MEJORAR → 🚀
 ```
 
-> No solo quiero escribir código. Quiero entender cómo funciona, construirlo y hacerlo funcionar en el mundo real.
-
----
+> No solo quiero escribir código. Quiero entender cómo funciona y hacerlo funcionar en el mundo real.
 
 <div align="center">
 
@@ -154,10 +123,8 @@ APRENDER → PRACTICAR → CONSTRUIR → PROBAR → FALLAR → REPARAR → MEJOR
 <a href="https://datafox.42web.io"><img src="https://img.shields.io/badge/DataFox-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 <a href="https://nexorasv.store"><img src="https://img.shields.io/badge/NEXORA-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 
-<br><br>
-
 *De reparar hardware a construir soluciones de software.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:1F6FEB,100:0D1117&height=90&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=70&section=footer"/>
 
 </div>
