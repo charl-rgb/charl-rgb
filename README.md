@@ -41,17 +41,17 @@ Soy estudiante de **Desarrollo de Software** apasionado por la tecnología, el d
 * **Programación con C y C++** — Platzi
 * **Administrador de Bases de Datos** — Capacítate para el Empleo
 * **Operador de Impresoras 3D** — Capacítate para el Empleo
-* **Electricidad Residencial de 4.ª Categoría**
+* **Electricidad Residencial de 4.ª Categoría** — **En curso**
 
 ---
 
 ## 💼 Experiencia Laboral
 
-### CompuPrint — Técnico en reparación de equipos informáticos
+### 🖥️ CompuPrint — Técnico en reparación de equipos informáticos
 
 **2022–2023 / 2025–Actualidad**
 
-* Reparación y mantenimiento de computadoras, PC y laptops.
+* Mantenimiento y reparación de computadoras, PC y laptops.
 * Instalación de sistemas operativos.
 * Diagnóstico y reparación básica de impresoras.
 * Manejo básico de fotocopiadoras.
@@ -74,26 +74,44 @@ Proyecto de desarrollo en el que se aplicaron conocimientos de **programación y
 
 Proyecto de desarrollo web orientado a la gestión y presentación de información relacionada con un **hotel**.
 
+### 🔹 DataFox
+
+Proyecto web desarrollado como parte de mi experiencia en **desarrollo web y creación de soluciones digitales**.
+
+🌐 **[Visitar DataFox](https://datafox.42web.io/)**
+
 ---
 
 ## 📊 Lenguajes más utilizados
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charl-rgb\&layout=compact\&theme=tokyonight\&hide_border=true)
+> Esta gráfica analiza los lenguajes utilizados en mis repositorios de GitHub.
+
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=charl-rgb\&layout=pie\&theme=tokyonight\&hide_border=true\&langs_count=8)
 
 ---
 
 ## 📈 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charl-rgb\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=charl-rgb\&theme=tokyonight\&hide_border=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=charl-rgb\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)
 
 ---
 
 ## 📫 Contáctame
 
-📧 **Email:** [Charlieramirez675@gmail.com](mailto:Charlieramirez675@gmail.com)
+Si quieres contactarme o conocer más sobre mis proyectos, puedes encontrarme en:
+
+📧 **Correo:** [Charlieramirez675@gmail.com](mailto:Charlieramirez675@gmail.com)
+
 📱 **Teléfono:** 7875-5594
+
 📍 **Ubicación:** Apopa, El Salvador
 
+🌐 **DataFox:** [datafox.42web.io](https://datafox.42web.io/)
+
+💻 **GitHub:** [github.com/charl-rgb](https://github.com/charl-rgb)
+
 ---
+
+<p align="center">
+  💻 <strong>Desarrollo de Software</strong> • ⚡ <strong>Hardware</strong> • 🤖 <strong>Automatización</strong> • 🔌 <strong>Electrónica</strong>
+</p>
