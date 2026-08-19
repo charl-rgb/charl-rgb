@@ -27,6 +27,7 @@ Soy estudiante de **Desarrollo de Software** apasionado por la tecnología, el d
 ### Educación Media
 
 **Instituto Nacional de Apopa (INA)**
+
 **Técnico Vocacional en Desarrollo de Software** — **2024–2026**
 
 ---
@@ -76,7 +77,7 @@ Proyecto de desarrollo web orientado a la gestión y presentación de informaci�
 
 ### 🔹 DataFox
 
-Proyecto web desarrollado como parte de mi experiencia en **desarrollo web y creación de soluciones digitales**.
+Proyecto web enfocado en el desarrollo de una **solución digital**, aplicando conocimientos de desarrollo web y tecnología.
 
 🌐 **[Visitar DataFox](https://datafox.42web.io/)**
 
@@ -84,34 +85,39 @@ Proyecto web desarrollado como parte de mi experiencia en **desarrollo web y cre
 
 ## 📊 Lenguajes más utilizados
 
-> Esta gráfica analiza los lenguajes utilizados en mis repositorios de GitHub.
+**Distribución de lenguajes utilizados en mis repositorios públicos:**
 
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=charl-rgb\&layout=pie\&theme=tokyonight\&hide_border=true\&langs_count=8)
+![Lenguajes más utilizados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charl-rgb\&theme=github_dark)
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 Actividad y contribuciones
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=charl-rgb\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)
+![Actividad de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charl-rgb\&theme=github_dark)
 
 ---
 
 ## 📫 Contáctame
 
-Si quieres contactarme o conocer más sobre mis proyectos, puedes encontrarme en:
+¿Tienes una idea, proyecto o quieres conocer más sobre mi trabajo? **Puedes contactarme directamente:**
 
-📧 **Correo:** [Charlieramirez675@gmail.com](mailto:Charlieramirez675@gmail.com)
+📧 **Correo electrónico:**
+[Charlieramirez675@gmail.com](mailto:Charlieramirez675@gmail.com)
 
-📱 **Teléfono:** 7875-5594
+📱 **Teléfono:**
+**7875-5594**
 
-📍 **Ubicación:** Apopa, El Salvador
+📍 **Ubicación:**
+**Apopa, El Salvador**
 
-🌐 **DataFox:** [datafox.42web.io](https://datafox.42web.io/)
-
-💻 **GitHub:** [github.com/charl-rgb](https://github.com/charl-rgb)
+🌐 **DataFox:**
+[Visitar DataFox](https://datafox.42web.io/)
 
 ---
 
 <p align="center">
-  💻 <strong>Desarrollo de Software</strong> • ⚡ <strong>Hardware</strong> • 🤖 <strong>Automatización</strong> • 🔌 <strong>Electrónica</strong>
+  💻 <strong>Desarrollo de Software</strong>
+  • ⚡ <strong>Hardware</strong>
+  • 🤖 <strong>Automatización</strong>
+  • 🔌 <strong>Electrónica</strong>
 </p>
