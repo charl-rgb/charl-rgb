@@ -24,22 +24,24 @@ Soy estudiante de **Desarrollo de Software** apasionado por la tecnología, el d
 
 ## 🎓 Formación Académica
 
-**Técnico Vocacional en Desarrollo de Software**
-Instituto Nacional de Apopa (INA) — **2024–2026**
+### Educación Media
+
+**Instituto Nacional de Apopa (INA)**
+**Técnico Vocacional en Desarrollo de Software** — **2024–2026**
 
 ---
 
-## 📚 Cursos y Otros Estudios
+## 📚 Otros Estudios y Cursos
 
 * **Microsoft Excel** — Biblioteca Municipal y Formación Profesional de Apopa
 * **Gemini IA** — Biblioteca Municipal y Formación Profesional de Apopa
 * **Power BI** — Biblioteca Municipal y Formación Profesional de Apopa
 * **Fundamentos de Desarrollo de Hardware con Arduino** — Platzi
-* **Prompt Engineering** — Platzi
+* **Curso de Prompt Engineering** — Platzi
 * **Programación con C y C++** — Platzi
 * **Administrador de Bases de Datos** — Capacítate para el Empleo
 * **Operador de Impresoras 3D** — Capacítate para el Empleo
-* **Curso de Electricidad Residencial de 4.ª Categoría** — Actualmente en formación
+* **Electricidad Residencial de 4.ª Categoría**
 
 ---
 
@@ -76,15 +78,15 @@ Proyecto de desarrollo web orientado a la gestión y presentación de informaci�
 
 ## 📊 Lenguajes más utilizados
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charl-rgb\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
 ## 📈 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charl-rgb\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=charl-rgb\&theme=tokyonight\&hide_border=true)
 
 ---
 
@@ -93,11 +95,5 @@ Proyecto de desarrollo web orientado a la gestión y presentación de informaci�
 📧 **Email:** [Charlieramirez675@gmail.com](mailto:Charlieramirez675@gmail.com)
 📱 **Teléfono:** 7875-5594
 📍 **Ubicación:** Apopa, El Salvador
-
----
-
-### 🚀 Actualmente
-
-Trabajando en proyectos de **desarrollo web, bases de datos y automatización**, incluyendo **Nexora**, un proyecto que integra software y hardware.
 
 ---
