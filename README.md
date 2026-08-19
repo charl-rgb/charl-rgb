@@ -1,104 +1,124 @@
-<h1 align="center">¡Hola, soy Charlie Ramírez! 👋</h1>
-<h3 align="center">Estudiante de Desarrollo de Software | Técnico en Reparación de Computadoras | Apopa, El Salvador 🇸🇻</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desarrollador+Web+PHP+%26+MySQL;Creador+de+Nexora+%F0%9F%9A%80;Apasionado+por+la+tecnolog%C3%ADa+y+el+hardware" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00F7FF&height=180&section=header&text=Charlie%20Ram%C3%ADrez&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20%7C%20T%C3%A9cnico%20en%20Hardware&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
----
-
-### 🙋‍♂️ Sobre mí
-
-- 🎓 Estudiante de **Técnico Vocacional en Desarrollo de Software** en el **Instituto Nacional de Apopa (INA)** (2024 – 2026)
-- 🛠️ Técnico en reparación de computadoras, laptops e impresoras en **CompuPrint**
-- 💻 Me apasiona el desarrollo web, las bases de datos y la automatización con hardware
-- 🚀 Actualmente desarrollando **Nexora**, mi proyecto principal
-- ⚡ También estudiando electricidad residencial de 4ta categoría y terminando el bachillerato
-- 📫 Contáctame: **charlieramirez675@gmail.com**
-
----
-
-### 🧰 Lenguajes y Tecnologías
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,html,css,js,mysql,c,cpp,arduino,windows,linux,vscode,git,github&theme=dark" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=550&lines=Creador+de+Nexora+%F0%9F%9A%80;PHP+%2B+MySQL+%2B+JavaScript;Hardware+%2B+Software+%3D+%E2%9D%A4%EF%B8%8F" />
 </p>
 
-### 🧩 Herramientas y Cursos
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=excel,figma&theme=dark" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Gemini_IA-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/📍-Apopa,_El_Salvador-0F2027?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎓-Técnico_en_Desarrollo_de_Software-203A43?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔧-Técnico_en_Hardware-00F7FF?style=flat-square&labelColor=203A43" />
 </p>
 
----
+<br>
 
-### 🧗 Timeline
+## 🙋‍♂️ Sobre mí
 
-```text
-2020  🏫 Educación básica - Instituto Noé Canjuras
-2022  🖥️ Inicio en CompuPrint - Reparación de equipos
-2023  🏫 Colegio San Jerónimo
-2024  🎓 Ingreso al INA - Técnico Vocacional en Desarrollo de Software
-2025  🖥️ Regreso a CompuPrint + inicio del proyecto Nexora
-2026  ⚡ Curso de electricidad residencial 4ta categoría + culminación de bachillerato
-```
+Soy estudiante de **Técnico Vocacional en Desarrollo de Software** y técnico en reparación de computadoras. Me gusta construir cosas de punta a punta: desde una base de datos hasta la interfaz que la muestra, y últimamente conectando eso con hardware real (Arduino, brazos robóticos, bandas transportadoras).
 
----
+Ahorita mi foco principal es **Nexora**, una plataforma que estoy construyendo desde cero.
 
-### 🎯 En qué estoy enfocado ahora
+<br>
 
-- 🚀 Seguir construyendo y puliendo **Nexora** (e-commerce, delivery, automatización)
-- 🤖 Integrando hardware con software: brazo robótico + banda transportadora con Arduino
-- 📚 Reforzando bases de datos, backend en PHP y buenas prácticas de programación
-- ⚡ Terminando mi curso de electricidad residencial y el bachillerato
+## 🧰 Stack
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,c,cpp,arduino&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,github,vscode,figma&theme=dark" />
+</p>
 
-### 💡 Dato curioso
+<details>
+<summary><b>🧩 Otras herramientas y áreas</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gemini_IA-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-10A37F?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electricidad_Residencial-FFB300?style=flat-square&logo=flash&logoColor=black" />
+</p>
+</details>
 
-```text
-if (dificultad == true) {
-    esfuerzo++;
-    aprendizaje++;
-}
-```
+<br>
 
----
+## 🎓 Formación
 
-### 🚀 Proyecto Principal: Nexora
+**Instituto Nacional de Apopa (INA)** · 2024 – 2026
+Bachillerato Técnico Vocacional en Desarrollo de Software
 
-<table align="center">
+**Cursos y certificaciones**
+| Curso | Institución |
+|---|---|
+| Administrador de Bases de Datos | Capacítate para el Empleo |
+| Operador de Impresoras 3D | Capacítate para el Empleo |
+| Fundamentos de Hardware con Arduino | Platzi |
+| Programación en C / C++ | Platzi |
+| Prompt Engineering | Platzi |
+| Excel · Power BI · Gemini IA | Biblioteca Municipal y Formación Profesional de Apopa |
+| Electricidad Residencial 4ta Categoría | En curso |
+
+<br>
+
+## 💼 Experiencia
+
+**🖥️ CompuPrint** — Técnico en reparación de equipos informáticos
+`2022 – 2023` · `2025 – Actualidad`
+
+Reparación de PC, laptops e impresoras, instalación de sistemas operativos y atención al cliente.
+
+<br>
+
+## 🚀 Proyectos
+
+<table>
 <tr>
-<td width="100%">
+<td width="50%" valign="top">
 
-**Nexora** es una plataforma web multi-módulo desarrollada en **PHP y MySQL** que combina:
+### 🛒 Nexora
+**Plataforma principal — en desarrollo activo**
 
-- 🛒 **Tienda en línea (e-commerce)** enfocada en productos tecnológicos
-- 🛵 **Sistema de gestión de repartidores** (registro, perfiles, pagos, comisiones)
-- 📊 **Panel de administración** con dashboard, reportes, inventario y gráficas en tiempo real (Chart.js)
-- 🤖 **Módulo de automatización**: brazo robótico + banda transportadora con detección de color y Arduino
-- 🎨 Diseño con estética futurista oscura (gradientes cian/azul, glassmorphism)
+Plataforma multi-módulo en PHP/MySQL: tienda tech, gestión de repartidores, panel admin con dashboard en tiempo real, y un módulo de automatización con brazo robótico + banda transportadora (Arduino + visión por color).
 
-🔗 **Demo:** [nexorasv.store/nexora](https://nexorasv.store/nexora/index.php)
+`PHP` `MySQL` `JS` `Chart.js` `Arduino`
+
+🔗 [Ver demo](https://nexorasv.store/nexora/index.php)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌅 Hotel Sunset Lovers
+**_(pendiente de detalle — decime qué hace y con qué lo hiciste)_**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔥 El Chingón
+**_(pendiente de detalle — decime qué hace y con qué lo hiciste)_**
+
+</td>
+<td width="50%" valign="top">
+
+### ➕ ¿Otro proyecto?
+**_Decime el nombre y te lo agrego aquí_**
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Stack-PHP%20%7C%20MySQL%20%7C%20JS%20%7C%20Chart.js-00F7FF?style=for-the-badge" />
-</p>
+<br>
 
----
-
-### 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=charl-rgb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charl-rgb&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=charl-rgb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charl-rgb&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -109,62 +129,17 @@ if (dificultad == true) {
   <img src="https://github-profile-trophy.vercel.app/?username=charl-rgb&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
-> 💡 Si alguna tarjeta muestra error, es porque el servicio gratuito que la genera está saturado — recargá la página en unos minutos y vuelve a aparecer sola.
+<sub>💡 Si alguna tarjeta no carga, es porque el servicio gratuito está saturado — recargá en unos minutos.</sub>
 
----
-
-### 🎓 Formación Académica
-
-<table align="center" width="100%">
-<tr><td>
-
-| Periodo | Institución | Detalle |
-|---|---|---|
-| 2024 – 2026 | **Instituto Nacional de Apopa (INA)** | Técnico Vocacional en Desarrollo de Software |
-| 2023 | Colegio San Jerónimo | Educación básica |
-| 2021 – 2022 | Colegio Román Mayorga Rivas | Educación básica |
-| 2015 – 2020 | Instituto Noé Canjuras | Educación básica |
-
-</td></tr>
-</table>
-
-**📜 Certificaciones y cursos complementarios**
-- 🏛️ Biblioteca Municipal y Formación Profesional de Apopa — Microsoft Excel, Gemini IA, Power BI
-- 🧠 Platzi — Fundamentos de Hardware con Arduino, Prompt Engineering, Programación en C/C++
-- 💼 Capacítate para el Empleo — Administrador de Bases de Datos, Operador de Impresoras 3D
-- ⚡ Curso de electricidad residencial de 4ta categoría (en curso)
-
----
-
-### 💼 Experiencia Laboral
-
-<table align="center" width="100%">
-<tr><td>
-
-**🖥️ CompuPrint** — Taller de reparación de computadoras
-`2022 – 2023` `2025 – Actualidad`
-
-Técnico en reparación de equipos informáticos (PC, laptops, impresoras) e instalación de sistemas operativos.
-
-- 🔧 Diagnóstico y reparación de hardware
-- 💽 Instalación de sistemas operativos (Windows / Linux)
-- 🖨️ Mantenimiento de impresoras y fotocopiadoras
-- 🤝 Atención al cliente
-
-</td></tr>
-</table>
-
----
+<br><br>
 
 <p align="center">
-  <a href="https://github.com/charl-rgb">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:charlieramirez675@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://github.com/charl-rgb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:charlieramirez675@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=charl-rgb&style=for-the-badge&color=00F7FF" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=charl-rgb&style=flat-square&color=00F7FF" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=100&section=footer" width="100%"/>
